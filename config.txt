@@ -1,2 +1,3 @@
 ﻿练手
 ali='uuu'
+ali="yyyyy"
